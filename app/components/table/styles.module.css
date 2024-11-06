@@ -1,0 +1,9 @@
+.header {
+	cursor: pointer;
+	width: 50rem;
+}
+
+.cell {
+	padding: 10px;
+  	border: 1px solid #ccc;
+}
